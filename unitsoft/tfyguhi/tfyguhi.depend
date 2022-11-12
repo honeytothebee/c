@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667704697 source:c:\taeyoon c\tfyguhi\main.c
+	<stdio.h>
+	<stdlib.h>
+

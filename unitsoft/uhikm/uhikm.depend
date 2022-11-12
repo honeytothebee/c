@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668074236 source:c:\taeyoon c\uhikm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
